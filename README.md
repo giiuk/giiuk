@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Giovanna Luiza and I'm a student from Fiap School</h2>
+<h2 align="left">Oie, sou a Giovanna Luiza</h2>
 
 ###
 
