@@ -1,64 +1,101 @@
-<h1 align="center">Hi 👋, I'm Giovanna Luiza</h1>
-
-<h3 align="center">
-Software Engineering Student • Game Developer • Front-End Developer
-</h3>
-
----
-
-## ✨ About Me
-
-🎓 I studied at FIAP School in a technical high school program focused on technology.  
-📚 Currently studying Software Engineering at FIAP.  
-🎮 Passionate about game development using Unity and C#.  
-💻 I have developed academic projects, personal systems, and a final graduation project (TCC).  
-🚀 Always exploring new technologies and improving my development skills.  
-
-## 🛠️ Technologies & Tools
-
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="45"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=220&section=header&text=Giovanna%20Luiza&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20•%20Game%20Developer&descAlignY=55"/>
 
 </div>
 
 ---
 
-## 🎮 Projects Experience
+<h2 align="center">💜 About Me 💜</h2>
 
-✨ Development of games using Unity and C#  
-✨ Front-end applications with React and TypeScript  
-✨ Academic systems and software engineering projects  
-✨ Final graduation project (TCC)  
-✨ UI/UX prototyping with Figma  
+<div align="center">
+
+🎓 Technical High School at **FIAP School**  
+📚 Currently studying **Software Engineering at FIAP**  
+🎮 Passionate about **Game Development with Unity & C#**  
+💻 Experience with academic projects, systems, and TCC development  
+🚀 Always learning new technologies and building creative solutions  
+
+</div>
 
 ---
 
-## 📫 Contact Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giiuk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giiuk&layout=compact&theme=radical&border_radius=15" height="180"/>
+</div>
+
+---
+
+<h2 align="center">✨ Tech Stack ✨</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,html,css,python,csharp,unity,figma,vscode,git,github"/>
+
+</div>
+
+---
+
+<h2 align="center">🌸 My Journey 🌸</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="300">
+
+### 🎓 Education
+
+💜 FIAP School  
+💜 Software Engineering @ FIAP  
+💜 Technical Background in Technology  
+
+</td>
+
+<td align="center" width="300">
+
+### 🎮 Experience
+
+✨ Game Development  
+✨ Unity & C# Projects  
+✨ Academic Systems  
+✨ TCC Development  
+
+</td>
+
+<td align="center" width="300">
+
+### 🚀 Goals
+
+🌟 Become a Full Stack Developer  
+🌟 Improve Game Development Skills  
+🌟 Create Innovative Projects  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">🎀 Featured Skills 🎀</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Front--End-9D4EDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game%20Development-C77DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unity-5A189A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C%23-9D4EDD?style=for-the-badge"/>
+
+</div>
+
+---
+
+<h2 align="center">📫 Contact Me 📫</h2>
 
 <div align="center">
 
@@ -67,8 +104,16 @@ Software Engineering Student • Game Developer • Front-End Developer
 </a>
 
 <a href="https://www.linkedin.com/in/giovanna-luiza-bento-4a5239265/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=giiuk&theme=radical&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -79,3 +124,13 @@ Software Engineering Student • Game Developer • Front-End Developer
 <img src="https://raw.githubusercontent.com/giiuk/giiuk/output/snake.svg" alt="Snake animation" />
 
 </div>
+
+---
+
+<div align="center">
+
+### 💜 “Turning ideas into games, systems, and experiences.” 💜
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=120&section=footer"/>
