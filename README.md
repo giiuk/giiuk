@@ -14,8 +14,9 @@ Software Engineering Student • Game Developer • Front-End Developer
 💻 I have developed academic projects, personal systems, and a final graduation project (TCC).  
 🚀 Always exploring new technologies and improving my development skills.  
 
-
+---
 <img align="right" height="171" src="https://media1.giphy.com/media/IQebREsGFRXmo/giphy.gif?cid=6c09b952498ktt66563mgpncbznovy6kqjiiukxf2lvulaev&ep=v1_gifs_search&rid=giphy.gif&ct=s" />
+---
 
 ## 🛠️ Technologies & Tools
 
