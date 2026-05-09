@@ -11,7 +11,7 @@
 <div align="center">
 
 📚 Currently studying **Software Engineering at FIAP**  
-🎮 Passionate about **Game Development with Unity, C# & CyberSecurity**  
+🎮 Passionate about **CyberSecurity and Game Development with Unity & C#**  
 💻 Experience with academic projects, systems, and TCC development  
 🚀 Always learning new technologies and building creative solutions  
 
