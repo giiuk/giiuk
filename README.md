@@ -20,15 +20,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giiuk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giiuk&layout=compact&theme=radical&border_radius=15" height="180"/>
-</div>
-
----
-
-<h2 align="center">✨ Tech Stack ✨</h2>
+<h2 align="center">Tech Stack </h2>
 
 <div align="center">
 
@@ -38,7 +30,7 @@
 
 ---
 
-<h2 align="center">🌸 My Journey 🌸</h2>
+<h2 align="center"> My Journey </h2>
 
 <div align="center">
 
@@ -48,9 +40,9 @@
 
 ### 🎓 Education
 
-💜 FIAP School  
-💜 Software Engineering @ FIAP  
-💜 Technical Background in Technology  
+ - FIAP School  
+ - Software Engineering @ FIAP  
+ - Technical Background in Technology  
 
 </td>
 
@@ -58,20 +50,10 @@
 
 ### 🎮 Experience
 
-✨ Game Development  
-✨ Unity & C# Projects  
-✨ Academic Systems  
-✨ TCC Development  
-
-</td>
-
-<td align="center" width="300">
-
-### 🚀 Goals
-
-🌟 Become a Full Stack Developer  
-🌟 Improve Game Development Skills  
-🌟 Create Innovative Projects  
+- Game Development  
+- Unity & C# Projects  
+- Academic Systems  
+- TCC/Startup Development  
 
 </td>
 </tr>
@@ -81,7 +63,7 @@
 
 ---
 
-<h2 align="center">🎀 Featured Skills 🎀</h2>
+<h2 align="center"> Featured Skills </h2>
 
 <div align="center">
 
@@ -95,7 +77,7 @@
 
 ---
 
-<h2 align="center">📫 Contact Me 📫</h2>
+<h2 align="center"> Contact Me </h2>
 
 <div align="center">
 
@@ -126,11 +108,5 @@
 </div>
 
 ---
-
-<div align="center">
-
-### 💜 “Turning ideas into games, systems, and experiences.” 💜
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=120&section=footer"/>
