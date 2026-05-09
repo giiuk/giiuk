@@ -10,9 +10,8 @@
 
 <div align="center">
 
-🎓 Technical High School at **FIAP School**  
 📚 Currently studying **Software Engineering at FIAP**  
-🎮 Passionate about **Game Development with Unity & C#**  
+🎮 Passionate about **Game Development with Unity, C# & CyberSecurity**  
 💻 Experience with academic projects, systems, and TCC development  
 🚀 Always learning new technologies and building creative solutions  
 
